@@ -50,7 +50,7 @@
     * 딥링크 게이트 개발(+Server-Side, Android, iOS 개발)
     * 광고성 정보수신 동의 수집 로직 추가(+Android, iOS 개발)
     * 카카오로그인 기능 추가(+API 개발)
-    * 신규 푸시 솔루션 도입 및 적용(+API, Android, iOS)
+    * 신규 푸시 알림 서비스 도입 및 적용(+API, Android, iOS)
 * 신규 페이지 개발
     * 모바일 홈 개편
     * 해피딜 매장 신규 개발
